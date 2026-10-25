@@ -28,8 +28,7 @@ Developed an interactive Power BI dashboard to analyze sales performance and bus
 
 ## 📸 Screenshot / Demo
 
-Show what the dashboard looks like.
-
+Show what the dashboard looks like. - ![Alt text](https://github.com/Arsheana-Chowdhury/Sales-Dashboard/blob/main/Dashboard%20Preview.png)
 **Example:** [View Dashboard Screenshot](https://github.com/Arsheana-Chowdhury/Sales-Dashboard/blob/main/Dashboard%20Preview.png)
 
 ## 🎯 Objective
