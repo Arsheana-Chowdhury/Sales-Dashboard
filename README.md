@@ -1,8 +1,8 @@
-# 📊 Sales Analysis Dashboard | Power BI
+# 📊 Sales Analysis Dashboard
 
 ## 📌 Project Overview
 
-Developed an interactive Power BI dashboard to analyze sales performance and business profitability.
+Developed an interactive dashboard to analyze sales performance and business profitability.
 
 ## 📈 Key Metrics & Visualizations
 
